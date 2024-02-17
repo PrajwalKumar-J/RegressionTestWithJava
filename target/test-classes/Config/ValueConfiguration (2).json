@@ -1,0 +1,19 @@
+{
+	
+	"DevURI" : "DevURIOf the resource",
+	"Devkey" : "Key Value To Be Passed",
+	
+	"SitURI" : "TestURI Of the resource",
+	"Sitkey" : "Key Value To Be Passed",
+	
+	"PpdURI" : "ProductionURI Of the resource",
+	"Ppdkey" : "Key Value To Be Passed",
+
+	
+	"Dev" : "Dev URL Endpoint",
+	
+	"Sit" : "Test URL Endpoint",
+		
+	"Ppd" : "Prd URL Endpoint"
+	
+}
